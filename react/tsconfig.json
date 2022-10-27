@@ -1,0 +1,6 @@
+{
+    "extends": "@ghernan-ui/ts-config/react.json",
+    "include": [
+        "src"
+    ]
+}
